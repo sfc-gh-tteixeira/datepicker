@@ -1,4 +1,4 @@
-# Relative date pickers for Streamlit
+# :calendar: Relative date pickers for Streamlit
 
 This is just an example of how you can make your own relative date pickers in Streamlit. Use it as
 inspiration or feel free to steal the code if you like.
